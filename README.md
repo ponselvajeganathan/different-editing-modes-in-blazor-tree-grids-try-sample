@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates editing functionality using the Syncfusion [Blazor TreeGrid]() component in a hosted Blazor WebAssembly application. The application displays hierarchical data in a TreeGrid and shows how editing can be enabled directly within the grid interface. Developers can use this sample as a starting point for implementing create, update, and delete workflows for hierarchical records while preserving parent-child relationships. The solution uses a hosted architecture with separate Client, Server, and Shared projects.
+This sample demonstrates editing functionality using the Syncfusion [Blazor TreeGrid](https://www.syncfusion.com/blazor-components/blazor-tree-grid) component in a hosted Blazor WebAssembly application. The application displays hierarchical data in a TreeGrid and shows how editing can be enabled directly within the grid interface. Developers can use this sample as a starting point for implementing create, update, and delete workflows for hierarchical records while preserving parent-child relationships. The solution uses a hosted architecture with separate Client, Server, and Shared projects.
 
 **Documentation**:  https://help.syncfusion.com/grid-sdk/blazor/tree-grid/editing/edit
 
